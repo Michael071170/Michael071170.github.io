@@ -15,3 +15,5 @@ Der Charakter ist also das, was einen Menschen zu der Person macht, die er ist.
 > Dies soll
 > ein Spruch sein
 > Wenn auch kein guter
+
+<img src="https://images.mein-mmo.de/medien/2015/11/Star-Wars-Battlefront-Charakter-Freischaltung.jpg"/>
