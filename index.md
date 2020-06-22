@@ -11,3 +11,7 @@ Der Charakter ist also das, was einen Menschen zu der Person macht, die er ist.
 * Liebe Eierlikoer
 * Bin fröhlich
 * Bin traurig
+
+> Dies soll
+> ein Spruch sein
+> Wenn auch kein guter
